@@ -209,7 +209,5 @@ __marimo__/
 .venv/
 .ipynb_checkpoints/
 data/
-reports/figures/*.png
-reports/figures/*.pdf
 .DS_Store
 .env
