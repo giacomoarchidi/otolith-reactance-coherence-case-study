@@ -46,3 +46,12 @@ Roadmap
 
 License
 MIT
+
+Results
+
+This repository currently ships with synthetic data. The quick run produced the following files inside reports
+
+reports/figures/heatmap_minX.png
+reports/figures/subject_profile.png
+
+See reports/results.md for a short numeric summary including Cohens d, a paired t test, and a permutation test on the median difference baseline minus during at the detected resonant stimulus
